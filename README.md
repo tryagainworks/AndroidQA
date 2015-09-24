@@ -1,13 +1,26 @@
-Application name: General QA
+Application name: 
+
+-----------------
+
+General QA
 
 Application Development Environment: 
+
+-------------------------------------
+
 QT Creator 3.5.0 (opensource)
+
 QT 5.5.0 (MSVC 2013, 32 bit)
 
 Application Run Environment: 
+
+-----------------------------
+
 Windows (Developed & Tested On Windows 8.1, 64 bit)
 
 Project Configuration
+
+---------------------
 
 Configured for below environment 
 
@@ -16,6 +29,8 @@ Configured for below environment
 2.Android OS (armeabi-v7a) GCC 4.9, QT 5.4.1
 
 About Application: 
+
+------------------
 
 1.	Choose one of a correct answer for the given question.
 
