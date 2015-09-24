@@ -1,0 +1,41 @@
+10
+C->Recursive data structures are almost always implemented with memory from the
+Stack
+Heap
+2
+C->static variables are local in scope to the block or file in which they are defined, but their lifespan is throughout the program.
+True
+False
+1
+C->Below is a single-parameter constructor that is declared without the function specifier explicit
+Copy constant
+Converting constructor
+2
+C->What function should be used to release allocated memory which is no longer needed?
+free()
+dealloc()
+1
+C->The library function used to find the last occurrence of a character in a string is
+strrchr()
+strstr()
+1
+Java->RMI allows an object to invoke methods on an object running in another JVM?
+True
+False
+1
+C->One that can be modified by the class even when the object of the class or the member function doing the modification is const it is known as
+mutable member
+constant member
+1
+Java->Which is an object, acts as a gateway for the client side, all the outgoing requests are routed through it, and it resides at the client side and represents the remote object?
+Stub
+Skeleton
+1
+Java->In RMI Architecture which layer Intercepts method calls made by the client/redirects these calls to a remote RMI service?
+Stub & Skeleton Layer
+Application Layer
+1
+Java->In RMI which layer defines and supports the invocation semantics of the RMI connection, this layer maintains the session during the method call?
+The Remote Reference Layer
+The Transport Layer
+1

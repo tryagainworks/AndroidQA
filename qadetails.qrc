@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/generalqa">
+        <file>qatxt.txt</file>
+    </qresource>
+    <qresource prefix="/new/images">
+        <file>correct.png</file>
+        <file>wrong.png</file>
+        <file>thumbdown.png</file>
+        <file>thumbup.png</file>
+        <file>icon_question_small.png</file>
+    </qresource>
+</RCC>
